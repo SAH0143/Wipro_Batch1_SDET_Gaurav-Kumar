@@ -1,0 +1,9 @@
+Menu: Burger - 120
+Order: Burger x2
+Delivery: Delivered to Kaliya
+Menu: Burger - 120
+Order: Burger x2
+Delivery: Delivered to Kaliya
+Menu: Burger - 120
+Order: Burger x2
+Delivery: Delivered to Kaliya

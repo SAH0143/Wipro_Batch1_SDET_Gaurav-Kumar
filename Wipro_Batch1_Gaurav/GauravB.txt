@@ -1,0 +1,4 @@
+hii everyone
+
+BufferedWrit example
+this file is read by readFile 😁😁😁

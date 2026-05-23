@@ -1,0 +1,28 @@
+ID:3536 Name:Raju Age:11 Disease:Fever
+ID:0420 Name:Kaliya Age:23 Disease:Psycho
+ID:1011 Name:Bhim Age:20 Disease:Feet
+ID:0420 Name:Chutki Age:23 Disease: Weak
+ID:3536 Name:Raju Age:11 Disease:Fever
+ID:0420 Name:Kaliya Age:23 Disease:Psycho
+ID:1011 Name:Bhim Age:20 Disease:Feet
+ID:0420 Name:Chutki Age:18 Disease: Weak
+ID:3536 Name:Raju Age:11 Disease:Fever
+ID:0420 Name:Kaliya Age:23 Disease:Psycho
+ID:1011 Name:Bhim Age:20 Disease:Feet
+ID:2535 Name:Chutki Age:18 Disease: Weak
+ID:3536 Name:Raju Age:11 Disease:Fever
+ID:0420 Name:Kaliya Age:23 Disease:Psycho
+ID:1011 Name:Bhim Age:20 Disease:Feet
+ID:2535 Name:Chutki Age:18 Disease: Weak
+ID:3536 Name:Raju Age:11 Disease:Fever
+ID:0420 Name:Kaliya Age:23 Disease:Psycho
+ID:1011 Name:Bhim Age:20 Disease:Feet
+ID:2535 Name:Chutki Age:18 Disease: Weak
+ID:3536 Name:Raju Age:11 Disease:Fever
+ID:0420 Name:Kaliya Age:23 Disease:Psycho
+ID:1011 Name:Bhim Age:20 Disease:Feet
+ID:2535 Name:Chutki Age:18 Disease: Weak
+ID:3536 Name:Raju Age:11 Disease:Fever
+ID:0420 Name:Kaliya Age:23 Disease:Psycho
+ID:1011 Name:Bhim Age:20 Disease:Feet
+ID:2535 Name:Chutki Age:18 Disease: Weak

@@ -1,0 +1,12 @@
+OrderID:abfgh562487 || Product:Laptop || Price:55000
+OrderID:achd9658754 | Product:Phone | Price:20000
+OrderID:abfgh562487 || Product:Laptop || Price:55000 || Add.- Kolkata
+OrderID:achd9658754 | Product:Rocket | Price:200000000 | Add.- Moon
+OrderID:abfgh562487 || Product:Laptop || Price:55000 || Add.- Kolkata
+OrderID:achd9658gh754 | Product:Rocket | Price:200000000 | Add.- Moon
+OrderID:abfgh562487 || Product:Laptop || Price:55000 || Add.- Kolkata
+OrderID:achd9658gh754 || Product:Rocket || Price:200000000 || Add.- Moon
+OrderID:abfgh562487 || Product:Laptop || Price:55000 || Add.- Kolkata
+OrderID:achd9658gh754 || Product:Rocket || Price:200000000 || Add.- Moon
+OrderID:abfgh562487 || Product:Laptop || Price:55000 || Add.- Kolkata
+OrderID:achd9658gh754 || Product:Rocket || Price:200000000 || Add.- Moon

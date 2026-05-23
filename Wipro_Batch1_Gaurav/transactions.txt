@@ -1,0 +1,12 @@
+AccNo:101 | Deposit:5000
+AccNo:101 | Withdraw:2000
+AccNo:007 || Deposit:5000
+AccNo:007 || Withdraw:1659
+AccNo:007 || Deposit:5000
+AccNo:007 || Withdraw:1659
+AccNo:555 || Deposit:11111000
+AccNo:555 || Withdraw:165659
+AccNo:555 || Deposit:11111000
+AccNo:555 || Withdraw:165659
+AccNo:555 || Deposit:11111000
+AccNo:555 || Withdraw:165659
